@@ -1,4 +1,5 @@
 ---
+toc: true
 layout: post
 title: Tikz and Videos
 tags: [Tikz, Latex, Animation, Video]
