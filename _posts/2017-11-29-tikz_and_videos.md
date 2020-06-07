@@ -36,7 +36,7 @@ My starting point is the manually designed Latex file, that is based on the foll
 {% endhighlight %}
 In this case a two nodes are drawn, which colors (*\mycolor*) should be animated.
 
-![Latex]({{ site.baseurl }}/assets/img/tikz/frame_000.png)
+![Latex]({{ site.baseurl }}/images/tikz/frame_000.png)
 
 # Filling the placeholders
 
@@ -80,7 +80,7 @@ Finally, all I have to do is to animate the frames with [ImageMagick](https://en
 convert -loop 0 -delay 2 sequence/*.png animation.gif
 {% endhighlight %}
 
-![Latex]({{ site.baseurl }}/assets/img/tikz/animation.gif)
+![Latex]({{ site.baseurl }}/images/tikz/animation.gif)
 
 # Remarks
 - Instead of using *\newcommand* for each placeholder, it might be more convinient to use *tikzset* or *tikzstyle* ([See here](https://tex.stackexchange.com/questions/52372/should-tikzset-or-tikzstyle-be-used-to-define-tikz-styles)) to define the dynamic variables
