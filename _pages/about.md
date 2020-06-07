@@ -7,11 +7,9 @@ permalink: /about/
 ![]({{ site.baseurl }}/images/merged.jpg)
 
 I am a PhD candidate at [IST Austria](https://ist.ac.at/) at the research group of [Tom Henzinger](https://ist.ac.at/en/research/henzinger-group/).
-My research topics is the intersection between Machine Learning, formal Verification, and Robotics.
+My research topics are Machine Learning, Formal Methods, and Robotics.
 
 ## Publications
-
-My publications so far:
 
 - **ICML** (2020) *The Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits*
 - **IJCAR** (2020) *An SMT Theory of Fixed-Point Arithmetic*
@@ -22,4 +20,4 @@ My publications so far:
 
 ## Awards
 
-**Distinguished Young Alumnus-Award** 2018 at [TU Wien](http://www.informatik.tuwien.ac.at/studium/studierende/epilog/2017ws)
+**Distinguished Young Alumnus-Award** 2018 [Faculty of Informatics at TU Wien](http://www.informatik.tuwien.ac.at/studium/studierende/epilog/2017ws)
