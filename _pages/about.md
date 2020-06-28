@@ -17,7 +17,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 - **ICRA** (2020) *Gershgorin Loss Stabilizes the Recurrent Neural Network Compartment of an End-To-End Robot Learning Scheme*. Mathias Lechner, Ramin Hasani, Daniela Rus, and Radu Grosu. [[Paper]](https://ti.tuwien.ac.at/cps/people/grosu/files/icra20.pdf)
 - **TACAS** (2020) *How Many Bits Does it Take to Quantize Your Neural Network?*. Mirco Giacobbe, Thomas A. Henzinger, and Mathias Lechner [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-45237-7_5)
 - **ICRA** (2019) *Designing Worm-inspired Neural Networks for Interpretable Robotic Control*. Mathias Lechner, Ramin Hasani, Manuel Zimmer, Thomas A. Henzinger, and Radu Grosu [[Paper]](https://ieeexplore.ieee.org/document/8793840)
-zz
+
 ## Awards
 
 **Distinguished Young Alumnus-Award** 2018 [Faculty of Informatics at TU Wien](http://www.informatik.tuwien.ac.at/studium/studierende/epilog/2017ws)
