@@ -2,6 +2,7 @@
 toc: true
 layout: post
 title: Tikz and Videos
+description: A simple way for generating animations and videos using LaTex and Tikz 
 tags: [Tikz, Latex, Animation, Video]
 image: "images/tikz/map.jpg"
 ---
