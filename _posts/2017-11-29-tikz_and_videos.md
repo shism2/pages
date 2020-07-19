@@ -3,7 +3,7 @@ toc: true
 layout: post
 title: Tikz and Videos
 tags: [Tikz, Latex, Animation, Video]
-feature-img: "images/tikz/map.jpg"
+image: "images/tikz/map.jpg"
 ---
 
 I am a really big fan of **Vector graphics** and I exhaustively use [Tikz](https://en.wikipedia.org/wiki/PGF/TikZ) to draw such.
