@@ -8,12 +8,12 @@ image: "images/wormnet/tw.png"
 ---
 
 This is the third part in a series explaining our recent paper titled XXX.
-In the previous part, we have defined an ODE-based neuron model, together with a non-linear synapse model.
-Here, we will derive an ODE-solver specifically created to deal with the issues of our model.
+Here, we will derive an ODE-solver specifically created to deal with the numerical issues of our LTC neural network model.
 
 ## Stiff ordinary differential equations
  
-One might say that this is enough to build a recurrent neural network (RNN). People familiar with David Duvenaud's research group's work [^1] might argue that we could simply put the ODE system into an off-the-shelf ODE-solver to obtain a solution at the required timesteps. 
+In the previous part, we have defined an ODE-based neuron model, together with a non-linear synapse model.
+One might say that this is already enough to build a recurrent neural network (RNN). People familiar with David Duvenaud's research group's work [^1] might argue that we could simply put the ODE system into an off-the-shelf ODE-solver to obtain a solution at the required timesteps. 
 Packages like torchdiffeq [^2] provide a set of powerful ODE-solvers like the Kunge-Kutta [^3] or the more sophisticated Dormand-Prince method [^4], which is even the default in Matlab [^5].
 However, there is one issue with the differential equations: They realize a phenomenon known as stiff equations [^6].
 For instance, if we simulate the unremarkable and linear ODE 
@@ -31,20 +31,20 @@ Dynamic stepsize solvers, like the Dormand-Prince method, deal with this issue b
 Implicit ODE-solving methods provide a more elegant solution.
 Standard explicit methods like the explicit Euler, Runge-Kutta, and the Dormand-Prince approach all simulate a differential equation like
 
-$$ x(t+T) = x(t) + T \cdot \text{solver\_magic}(x(t)) $$
+$$ x(t+\Delta) = x(t) + \Delta \cdot \text{solver\_magic}(x(t)) $$
 
-In the simplest case, i.e., the explicit Euler, $$ \text{solver\_magic} $$ is simply the right-hand-side of the given ODE $$ \frac{d x}{d t} = f(x) $$.
+In the simplest case, i.e., the explicit Euler, $$ \text{solver\_magic} $$ is simply the right-hand-size of the given ODE $$ \frac{d x}{d t} = f(x) $$ evaluated at $$x=x(t)$$.
 The idea of implicit methods is define the numerical solution in an implcit equation,
 
-$$ x(t+T) = x(t) + T \cdot \text{solver\_magic}(x(t+t)) $$
+$$ x(t+\Delta) = x(t) + \Delta \cdot \text{solver\_magic}(x(t+t)) $$
 
 The simplest case is the implicit Euler, which is defined as
 
-$$ x(t+T) = x(t) + T \cdot f(x(t+t)) $$
+$$ x(t+\Delta) = x(t) + \Delta \cdot f(x(t+\Delta)) $$
 
 If our ODE is linear, like the one illustrated above, we can analytically solve this equation and get
 
-$$ x(t+T) = (T\cdot A-E)^{-1} x(t) $$
+$$ x(t+\Delta) = (\Delta\cdot A-E)^{-1} x(t) $$
 
 which behaves smoothly and stable when run with the same stepsize as the figure above.
 
@@ -64,10 +64,10 @@ $$ \frac{d x}{d t} = f(x) $$
 
 by the approach 
 
-$$ x(t+T) = x(t) + T*f(x \mapsto x(t)/x(t+t)) $$
+$$ x(t+\Delta) = x(t) + \Delta \cdot f(x \mapsto x(t)/x(t+\Delta)) $$
 
-where we substitute $$x$$ by $$x(t)$$ in the non-linear and $$x$$ by $$ x(t+T) $$ in the linear occruances of $$x$$ in $$f$$.
-After an extensive amount of re-writing, we can solve the ODE for (x+T):
+where we substitute $$x$$ by $$x(t)$$ in the non-linear and $$x$$ by $$ x(t+\Delta) $$ in the linear occruances of $$x$$ in $$f$$.
+After an extensive amount of re-writing, we can solve the ODE for (x+\Delta):
 
 From the equation of our hybrid solver, we can infer one important stability property. If we want to guarantee that we never divide by zero, we have to make sure that Gleak, Gsyn is non-negative, and Cm positive. This will be important later when we train these parameters.
 
