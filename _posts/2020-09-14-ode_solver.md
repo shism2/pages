@@ -18,7 +18,7 @@ Packages like torchdiffeq [^2] provide a set of powerful ODE-solvers like the Ku
 However, there is one issue with the differential equations: They realize a phenomenon known as stiff equations [^6].
 For instance, if we simulate the unremarkable and linear ODE 
 
-$$ \frac{d x}{d t} = \begin{pmatrix} 1 & 1\\ -20.5 & -21.5 \end{pmatrix} x $$
+$$ \frac{d x}{d t} = \begin{pmatrix} 0 & 1\\ -20.5 & -21.5 \end{pmatrix} x $$
 
 with a simple fixed-step solver, we might get something like 
 
