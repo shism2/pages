@@ -28,12 +28,15 @@ Such a stiffness usually occurs when there are two antagonistic forces applied t
 
 Dynamic stepsize solvers, like the Dormand-Prince method, deal with this issue by making the simulation grid finer if such divergence is detected. However, this solution comes at a very high computational cost, which we want to avoid.
 
-Implicit ODE-solving methods provide a more elegant solution.
+**Implicit ODE-solving methods** provide a more elegant solution.
 Standard explicit methods like the explicit Euler, Runge-Kutta, and the Dormand-Prince approach all simulate a differential equation like
 
 $$ x(t+\Delta) = x(t) + \Delta \cdot \text{solver\_magic}(x(t)) $$
 
-In the simplest case, i.e., the explicit Euler, $$ \text{solver\_magic} $$ is simply the right-hand-size of the given ODE $$ \frac{d x}{d t} = f(x) $$ evaluated at $$x=x(t)$$.
+In the simplest case, i.e., the explicit Euler, $$ \text{solver\_magic} $$ is simply the right-hand-size of the given ODE $$ \frac{d x}{d t} = f(x) $$ evaluated at $$x=x(t)$$:
+
+$$ x(t+\Delta) = x(t) + \Delta \cdot f(x(t)) $$
+
 The idea of implicit methods is define the numerical solution in an implcit equation,
 
 $$ x(t+\Delta) = x(t) + \Delta \cdot \text{solver\_magic}(x(t+t)) $$
@@ -44,7 +47,7 @@ $$ x(t+\Delta) = x(t) + \Delta \cdot f(x(t+\Delta)) $$
 
 If our ODE is linear, like the one illustrated above, we can analytically solve this equation and get
 
-$$ x(t+\Delta) = (\Delta\cdot A-E)^{-1} x(t) $$
+$$ x(t+\Delta) = (\begin{pmatrix}1 & 0 \\0 & 1 \end{pmatrix} - \Delta\cdot \begin{pmatrix} 0 & 1\\ -20.5 & -21.5 \end{pmatrix})^{-1} x(t) $$
 
 which behaves smoothly and stable when run with the same stepsize as the figure above.
 
