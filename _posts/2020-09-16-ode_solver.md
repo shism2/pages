@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-title: Part 2: An unusual ODE-solver
+title: Part 2 - An unusual ODE-solver
 tags: [NCP, wormnet]
 image: "images/wormnet/diffeq/ode.png"
 
