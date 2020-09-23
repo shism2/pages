@@ -13,6 +13,51 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 
 New layout test:
 
+Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus, and Radu Grosu
+[The Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits](https://proceedings.icml.cc/static/paper_files/icml/2020/2398-Paper.pdf)
+*In 2020 International Conference on Machine Learning* (***ICML*** 2020).
+
+Mathias Lechner  
+[Learning Representations for binary classification without backpropagation](https://openreview.net/forum?id=Bke61krFvS)  
+*In 2020 International Conference on Learning Representations* (***ICLR*** 2020)
+
+Marek Baranowski, Shaobo He, Mathias Lechner, Thanh Son Nguyen, and Zvonimir Rakamaric  
+[An SMT Theory of Fixed-Point Arithmetic](https://soarlab.org/papers/2020_ijcar_bhlnr.pdf)  
+*In 2020 International Joint Conference on Automated Reasoning* (***IJCAR*** 2020)
+
+Other option:
+
+[The Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits](https://proceedings.icml.cc/static/paper_files/icml/2020/2398-Paper.pdf)
+Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus, and Radu Grosu
+*In 2020 International Conference on Machine Learning* (***ICML*** 2020).
+
+[Learning Representations for binary classification without backpropagation](https://openreview.net/forum?id=Bke61krFvS)  
+Mathias Lechner  
+*In 2020 International Conference on Learning Representations* (***ICLR*** 2020)
+
+[An SMT Theory of Fixed-Point Arithmetic](https://soarlab.org/papers/2020_ijcar_bhlnr.pdf)  
+Marek Baranowski, Shaobo He, Mathias Lechner, Thanh Son Nguyen, and Zvonimir Rakamaric  
+*In 2020 International Joint Conference on Automated Reasoning* (***IJCAR*** 2020)
+
+Old style:
+
+Marek Baranowski, Shaobo He, Mathias Lechner, Thanh Son Nguyen, and Zvonimir Rakamaric. "An SMT Theory of Fixed-Point Arithmetic". In 2020 International Joint Conference on Automated Reasoning (IJCAR), 2020.
+
+Mathias Lechner, Ramin Hasani, Daniela Rus, and Radu Grosu. "Gershgorin Loss Stabilizes the Recurrent Neural Network Compartment of an End-To-End Robot Learning Scheme". In 2020 International Conference on Robotics and Automation (ICRA), 2020.
+
+Mathias Lechner. "Learning Representations For Binary-classification without Backpropagation". In 2020 International Conference on Learning Representations (ICLR), 2020.
+
+Mirco Giacobbe, Thomas A. Henzinger, and Mathias Lechner. "How Many Bits Does it Take to Quantize Your Neural Network?" In 2020  International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2020.
+
+Sophie Gruenbacher, Jacek Cyranka, Mathias Lechner, Md. Ariful Islam, Scott Smolka, and Radu Grosu. "Lagrangian Reachtubes: The Next Generation". In 2020 IEEE Conference on Decision and Control (CDC), 2020.
+
+Ramin Hasani, Alexander Amini, Mathias Lechner, Felix Naser, Radu Grosu, and Daniela Rus. "Response characterization for auditing cell dynamics in long short-term memory networks." In 2019 International Joint Conference on Neural Networks (IJCNN), 2019.
+
+Mathias Lechner, Ramin Hasani, Manuel Zimmer, Thomas A. Henzinger, and Radu Grosu. "Designing worm-inspired neural networks for interpretable robotic control". In 2019 International Conference on Robotics and Automation (ICRA), 2019.
+
+
+
+
 [Learning Representations for binary classification without backpropagation](https://openreview.net/forum?id=Bke61krFvS)  
 Mathias Lechner  
 *International Conference on Learning Representations* (**ICLR** 2020)
