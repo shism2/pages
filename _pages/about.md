@@ -11,36 +11,44 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 
 ## Publications
 
-Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus, and Radu Grosu  
+[Neural circuit policies enabling auditable autonomy](https://www.nature.com/articles/s42256-020-00237-3)  
+Mathias Lechner, Ramin Hasani, Alexander Amini, Thomas A. Henzinger, Daniela Rus, and Radu Grosu   
+In ***Nature Machine Intelligence***, 2020
+
+[Learning Long-Term Dependencies in Irregularly-Sampled Time Series](https://arxiv.org/pdf/2006.04418.pdf)  
+Mathias Lechner, Ramin Hasani  
+To appear in *2020 Conference on Neural Information Processing Systems* (***NeurIPS***), 2020
+
 [The Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits](https://proceedings.icml.cc/static/paper_files/icml/2020/2398-Paper.pdf)  
+Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus, and Radu Grosu  
 *In 2020 International Conference on Machine Learning* (***ICML***), 2020
 
-Mathias Lechner  
 [Learning Representations for binary classification without backpropagation](https://openreview.net/forum?id=Bke61krFvS)  
+Mathias Lechner  
 *In 2020 International Conference on Learning Representations* (***ICLR***), 2020
 
-Marek Baranowski, Shaobo He, Mathias Lechner, Thanh Son Nguyen, and Zvonimir Rakamaric  
 [An SMT Theory of Fixed-Point Arithmetic](https://soarlab.org/papers/2020_ijcar_bhlnr.pdf)  
+Marek Baranowski, Shaobo He, Mathias Lechner, Thanh Son Nguyen, and Zvonimir Rakamaric  
 *In 2020 International Joint Conference on Automated Reasoning* (***IJCAR***), 2020
 
-Mathias Lechner, Ramin Hasani, Daniela Rus, and Radu Grosu  
 [Gershgorin Loss Stabilizes the Recurrent Neural Network Compartment of an End-To-End Robot Learning Scheme](https://ti.tuwien.ac.at/cps/people/grosu/files/icra20.pdf)  
+Mathias Lechner, Ramin Hasani, Daniela Rus, and Radu Grosu  
 *In 2020 International Conference on Robotics and Automation* (***ICRA***), 2020
 
-Mirco Giacobbe, Thomas A. Henzinger, and Mathias Lechner  
 [How Many Bits Does it Take to Quantize Your Neural Network?](https://link.springer.com/chapter/10.1007/978-3-030-45237-7_5)  
+Mirco Giacobbe, Thomas A. Henzinger, and Mathias Lechner  
 *In 2020  International Conference on Tools and Algorithms for the Construction and Analysis of Systems* (***TACAS***), 2020
 
-Sophie Gruenbacher, Jacek Cyranka, Mathias Lechner, Md. Ariful Islam, Scott Smolka, and Radu Grosu  
 Lagrangian Reachtubes: The Next Generation  
+Sophie Gruenbacher, Jacek Cyranka, Mathias Lechner, Md. Ariful Islam, Scott Smolka, and Radu Grosu  
 *In 2020 IEEE Conference on Decision and Control* (***CDC***), 2020
 
-Ramin Hasani, Alexander Amini, Mathias Lechner, Felix Naser, Radu Grosu, and Daniela Rus  
 [Response characterization for auditing cell dynamics in long short-term memory networks](https://ti.tuwien.ac.at/cps/people/grosu/files/ijcnn19.pdf)  
+Ramin Hasani, Alexander Amini, Mathias Lechner, Felix Naser, Radu Grosu, and Daniela Rus  
 *In 2019 International Joint Conference on Neural Networks* (***IJCNN***), 2019
 
-Mathias Lechner, Ramin Hasani, Manuel Zimmer, Thomas A. Henzinger, and Radu Grosu  
 [Designing worm-inspired neural networks for interpretable robotic control](https://ieeexplore.ieee.org/document/8793840)  
+Mathias Lechner, Ramin Hasani, Manuel Zimmer, Thomas A. Henzinger, and Radu Grosu  
 *In 2019 International Conference on Robotics and Automation* (***ICRA***), 2019
 
 
