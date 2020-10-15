@@ -7,7 +7,7 @@ image: "images/wormnet/diffeq/ode.png"
 
 ---
 
-This is the third part in a series explaining our recent paper titled XXX.
+This is the third part in a series explaining our recent paper titled [Neural circuit policies enabling auditable autonomy](https://rdcu.be/b8sEo).
 Here, we will derive an ODE-solver specifically created to deal with the numerical issues of our LTC neural network model.
 
 ## Stiff ordinary differential equations
