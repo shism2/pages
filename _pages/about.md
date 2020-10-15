@@ -13,7 +13,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 
 [Neural circuit policies enabling auditable autonomy](https://www.nature.com/articles/s42256-020-00237-3)  
 Mathias Lechner, Ramin Hasani, Alexander Amini, Thomas A. Henzinger, Daniela Rus, and Radu Grosu   
-In ***Nature Machine Intelligence***, 2020
+In ***Nature Machine Intelligence***, 2020 ([[Paper link]](https://rdcu.be/b8sEo))
 
 [Learning Long-Term Dependencies in Irregularly-Sampled Time Series](https://arxiv.org/pdf/2006.04418.pdf)  
 Mathias Lechner, Ramin Hasani  

@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: post
-title: Part 2 - An unusual ODE-solver
+title: Part 3 - An unusual ODE-solver
 tags: [NCP, wormnet]
 image: "images/wormnet/diffeq/ode.png"
 
@@ -16,14 +16,15 @@ In the previous part, we have defined an ODE-based neuron model, together with a
 One might say that this is already enough to build a recurrent neural network (RNN). People familiar with David Duvenaud's research group's work [^1] might argue that we could simply put the ODE system into an off-the-shelf ODE-solver to obtain a solution at the required timesteps. 
 Packages like torchdiffeq [^2] provide a set of powerful ODE-solvers like the Kunge-Kutta [^3] or the more sophisticated Dormand-Prince method [^4], which is even the default in Matlab [^5].
 However, there is one issue with the differential equations: They realize a phenomenon known as stiff equations [^6].
-For instance, if we simulate the unremarkable and linear ODE 
+For instance, if we simulate the unremarkable linear ODE 
 
 $$ \frac{d x}{d t} = \begin{pmatrix} 0 & 1\\ -20.5 & -21.5 \end{pmatrix} x $$
 
 with a simple fixed-step solver, we might get something like 
 
-![award]({{ site.baseurl }}/images/wormnet/diffeq/seq/explicit.gif "The explicit Euler method applied to the linear ODE above")
+![explosion]({{ site.baseurl }}/images/wormnet/diffeq/seq/explicit.gif "The explicit Euler method applied to the linear ODE above")
 
+Note that the explosion happends despite a relatively fine (small) time-step of the ODE solver.
 Such a stiffness usually occurs when there are two antagonistic forces applied to a single variable. One force tries to increase the variable, while the other one wants to decrease it. In the analytical solution, both forces converge to a stable equilibrium. However, in a discrete-time numerical approximation, the two forces push the variable above and below the equilibrium. If the magnitude of this "pushing around" increases, the resulting numerical simulation becomes unstable, as we observed above. 
 
 Dynamic stepsize solvers, like the Dormand-Prince method, deal with this issue by making the simulation grid finer if such divergence is detected. However, this solution comes at a very high computational cost, which we want to avoid.
@@ -88,7 +89,7 @@ We showed how to obtain a stable and decently accurate discretization of our neu
 ## References
 
 [^1]: Rubanova et al. NeurIPS 2019. [Latent ordinary differential equations for irregularly-sampled time series](https://papers.nips.cc/paper/8773-latent-ordinary-differential-equations-for-irregularly-sampled-time-series.pdf)
-[^2]: [torchdiffeq](https://github.com/rtqichen/torchdiffeq)
+[^2]: The [torchdiffeq](https://github.com/rtqichen/torchdiffeq) package
 [^3]: [Wolfram Mathworld - Runge-Kutta methods](https://mathworld.wolfram.com/Runge-KuttaMethod.html)
 [^4]: Dormand and Prince 1980, *A family of embedded Runge-Kutta formulae*, J. Comp. Appl. Math., Vol. 6
 [^5]: [Matlab's ode45](https://www.mathworks.com/help/matlab/ref/ode45.html)
