@@ -11,13 +11,24 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 
 ## Publications
 
+Scalable Verification of Quantized Neural Networks  
+Thomas A. Henzinger, Mathias Lechner, and Djordje Zikelic  
+To appear in 2021 AAAI Conference on Artificial Intelligence (***AAAI***), 2021
+
+Liquid Time-constant Networks  
+Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus, and Radu Grosu  
+To appear in 2021 AAAI Conference on Artificial Intelligence (***AAAI***), 2021
+
+On the Verification of Neural ODEs with Stochastic Guarantees  
+Sophie Grünbacher, Ramin Hasani,  Mathias Lechner, Jacek Cyranka, Scott A. Smolka, and Radu Grosu  
+To appear in 2021 AAAI Conference on Artificial Intelligence (***AAAI***), 2021
+
 [Neural circuit policies enabling auditable autonomy](https://www.nature.com/articles/s42256-020-00237-3)  
 Mathias Lechner, Ramin Hasani, Alexander Amini, Thomas A. Henzinger, Daniela Rus, and Radu Grosu   
 In ***Nature Machine Intelligence***, 2020 ([[Paper link]](https://rdcu.be/b8sEo))
 
-[Learning Long-Term Dependencies in Irregularly-Sampled Time Series](https://arxiv.org/pdf/2006.04418.pdf)  
-Mathias Lechner, Ramin Hasani  
-To appear in *2020 Conference on Neural Information Processing Systems* (***NeurIPS***), 2020
+<!-- [Learning Long-Term Dependencies in Irregularly-Sampled Time Series](https://arxiv.org/pdf/2006.04418.pdf)  
+Mathias Lechner, Ramin Hasani  -->
 
 [The Natural Lottery Ticket Winner: Reinforcement Learning with Ordinary Neural Circuits](https://proceedings.icml.cc/static/paper_files/icml/2020/2398-Paper.pdf)  
 Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus, and Radu Grosu  
