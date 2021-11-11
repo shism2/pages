@@ -10,8 +10,18 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 
 ## Publications
 
+### 2021
+
+Infinite Time Horizon Safety of Bayesian Neural Networks  
+Mathias Lechner, Đorđe Žikelić, Krishnendu Chatterjee, Thomas Henzinger  
+To appear in *2021 Conference on Neural Information Processing Systems* (***NeurIPS***), 2021  
+
+Causal Navigation by Continuous-time Neural Networks  
+Charles J Vorbach, Ramin Hasani, Alexander Amini, Mathias Lechner, Daniela Rus  
+To appear in *2021 Conference on Neural Information Processing Systems* (***NeurIPS***), 2021  
+
 Adversarial Training is Not Ready for Robot Learning  
-Mathias Lechner, Ramin Hasani, Radu Grosu, Daniela Rus, Thomas A Henzinger  
+[Mathias Lechner, Ramin Hasani, Radu Grosu, Daniela Rus, Thomas A Henzinger](https://arxiv.org/pdf/2103.08187.pdf)   
 *In 2021 IEEE International Conference on Robotics and Automation* (***ICRA***), 2021  
 
 [On-Off Center-Surround Receptive Fields for Accurate and Robust Image Classification](http://proceedings.mlr.press/v139/babaiee21a/babaiee21a.pdf)  
@@ -29,6 +39,8 @@ Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus, and Radu Grosu
 [On the Verification of Neural ODEs with Stochastic Guarantees](https://ojs.aaai.org/index.php/AAAI/article/view/17372/17179)  
 Sophie Grünbacher, Ramin Hasani,  Mathias Lechner, Jacek Cyranka, Scott A. Smolka, and Radu Grosu  
 *In 2021 AAAI Conference on Artificial Intelligence* (***AAAI***), 2021
+
+### 2020
 
 [Neural circuit policies enabling auditable autonomy](https://www.nature.com/articles/s42256-020-00237-3)  
 Mathias Lechner, Ramin Hasani, Alexander Amini, Thomas A. Henzinger, Daniela Rus, and Radu Grosu   
@@ -60,6 +72,8 @@ Mirco Giacobbe, Thomas A. Henzinger, and Mathias Lechner
 Lagrangian Reachtubes: The Next Generation  
 Sophie Gruenbacher, Jacek Cyranka, Mathias Lechner, Md. Ariful Islam, Scott Smolka, and Radu Grosu  
 *In 2020 IEEE Conference on Decision and Control* (***CDC***), 2020
+
+### 2019
 
 [Response characterization for auditing cell dynamics in long short-term memory networks](https://ti.tuwien.ac.at/cps/people/grosu/files/ijcnn19.pdf)  
 Ramin Hasani, Alexander Amini, Mathias Lechner, Felix Naser, Radu Grosu, and Daniela Rus  
