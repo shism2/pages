@@ -12,9 +12,19 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 
 ### 2021
 
+<table>
+<tr>
+<td>
+Here comes an image
+</td>
+<td>
 Infinite Time Horizon Safety of Bayesian Neural Networks  
 Mathias Lechner, Đorđe Žikelić, Krishnendu Chatterjee, Thomas Henzinger  
 To appear in *2021 Conference on Neural Information Processing Systems* (***NeurIPS***), 2021  
+</td>
+</tr>
+</table>
+
 
 Causal Navigation by Continuous-time Neural Networks  
 Charles J Vorbach, Ramin Hasani, Alexander Amini, Mathias Lechner, Daniela Rus  
