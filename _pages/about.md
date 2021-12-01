@@ -24,7 +24,7 @@ To appear in *2021 Conference on Neural Information Processing Systems* (***Neur
 </div>
 
 
-Causal Navigation by Continuous-time Neural Networks  
+![alt](images/wormnet/worm.png) Causal Navigation by Continuous-time Neural Networks  
 Charles J Vorbach, Ramin Hasani, Alexander Amini, Mathias Lechner, Daniela Rus  
 To appear in *2021 Conference on Neural Information Processing Systems* (***NeurIPS***), 2021  
 
