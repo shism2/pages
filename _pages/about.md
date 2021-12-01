@@ -14,12 +14,12 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <pre>Image comes here</pre>
+        Image comes here
     </div>
     <div style="display: inline-block;">
-        <pre>Infinite Time Horizon Safety of Bayesian Neural Networks  
+        Infinite Time Horizon Safety of Bayesian Neural Networks  
 Mathias Lechner, Đorđe Žikelić, Krishnendu Chatterjee, Thomas Henzinger  
-To appear in *2021 Conference on Neural Information Processing Systems* (***NeurIPS***), 2021  </pre>
+To appear in *2021 Conference on Neural Information Processing Systems* (***NeurIPS***), 2021
     </div>
 </div>
 
