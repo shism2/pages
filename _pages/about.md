@@ -34,15 +34,16 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
         <tr>
             <td><img src="/pages/images/thumbnails/gotube.png" width="128px" /></td>
             <td>
-                <div style="font-size: 18px;"></div><a href="">GoTube: Scalable Stochastic Verification of
-                    Continuous-Depth Models</a><span style="font-size: 16px;">
-                    <br />Sophie Gruenbacher, <u>Mathias Lechner</u>, Ramin Hasani, Daniela Rus, Thomas A. Henzinger,
-                    Scott
-                    A.
-                    Smolka, Radu Grosu
-                    <br />
-                    Accepted at the <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2022
-                </span></div>
+                <div style="font-size: 18px;"><a href="">GoTube: Scalable Stochastic Verification of
+                        Continuous-Depth Models</a><span style="font-size: 16px;">
+                        <br />Sophie Gruenbacher, <u>Mathias Lechner</u>, Ramin Hasani, Daniela Rus, Thomas A.
+                        Henzinger,
+                        Scott
+                        A.
+                        Smolka, Radu Grosu
+                        <br />
+                        Accepted at the <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2022
+                    </span></div>
             </td>
         </tr>
     </tbody>
@@ -240,6 +241,8 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
                         Sophie Gruenbacher, Jacek Cyranka, <u>Mathias Lechner</u>, Md. Ariful Islam, Scott Smolka, and
                         Radu
                         Grosu
+                        <br />
+                        <b>TC-DES and TC-HS Outstanding Student Paper Prize</b>
                         <br />
                         In <i>IEEE Conference on Decision and Control
                             (<b>CDC</b>)</i>, 2020
