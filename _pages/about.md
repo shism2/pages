@@ -13,14 +13,10 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 
 \* denotes equal contributions
 
-<p>
+### 2022
+
 <table style="border: none; border-collapse: collapse;">
     <tbody>
-        <tr>
-            <td>
-                <h2>2022</h2>
-            </td>
-        </tr>
         <tr>
             <td><img src="/pages/images/thumbnails/aaai22.png" width="128px" /></td>
             <td>
@@ -49,11 +45,13 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
                 </span></div>
             </td>
         </tr>
-        <tr>
-            <td>
-                <h2>2021</h2>
-            </td>
-        </tr>
+    </tbody>
+</table>
+
+### 2021
+
+<table style="border: none; border-collapse: collapse;">
+    <tbody>
         <tr>
             <td><img src="/pages/images/thumbnails/bnn.png" width="128px" /></td>
             <td>
@@ -141,11 +139,13 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
                     </span></div>
             </td>
         </tr>
-        <tr>
-            <td>
-                <h2>2020</h2>
-            </td>
-        </tr>
+    </tbody>
+</table>
+
+### 2020
+
+<table style="border: none; border-collapse: collapse;">
+    <tbody>
         <tr>
             <td><img src="/pages/images/thumbnails/nmi20.png" width="128px" /></td>
             <td>
@@ -246,11 +246,13 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
                     </span></div>
             </td>
         </tr>
-        <tr>
-            <td>
-                <h2>2019</h2>
-            </td>
-        </tr>
+    </tbody>
+</table>
+
+### 2019
+
+<table style="border: none; border-collapse: collapse;">
+    <tbody>
         <tr>
             <td><img src="/pages/images/thumbnails/ijcnn19.png" width="128px" /></td>
             <td>
