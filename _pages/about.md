@@ -271,7 +271,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/icra19.png" width="128px" /></td>
+            <td style="width: 128px;"><img src="/pages/images/thumbnails/icra19.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://ieeexplore.ieee.org/document/8793840">Designing
                         worm-inspired neural networks for
@@ -285,7 +285,6 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
         </tr>
     </tbody>
 </table>
-</p>
 
 ## Awards
 
