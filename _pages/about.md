@@ -8,14 +8,15 @@ permalink: /about/
 <table style="border: none; border-collapse: collapse;">
     <tbody>
         <tr style="border: none;">
-            <td style="width: 250px; border: none;">
+            <td style="width: 200px; border: none;">
                 <img src="/pages/images/me.jpg" />
             </td>
             <td style="border: none;">
-                <p> I am a PhD candidate at [IST Austria](https://ist.ac.at/) at the research group of
-                    [TomHenzinger](https://ist.ac.at/en/research/henzinger-group/). My research topics are Machine
-                    Learning,
-                    Formal Methods, and Robotics.</p>
+                <p> I am a PhD candidate at <a href="https://ist.ac.at/">IST Austria</a> at the research group of
+                    <a href="https://ist.ac.at/en/research/henzinger-group/">Tom Henzinger</a>. My research focues on
+                    Machine
+                    Learning, Formal Methods, and Robotics.
+                </p>
             </td>
         </tr>
     </tbody>
