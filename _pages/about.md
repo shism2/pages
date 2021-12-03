@@ -24,14 +24,14 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
         <tr>
             <td><img src="/pages/images/thumbnails/aaai22.png" width="128px" /></td>
             <td>
-                <p><a href="">Stability Verification in Stochastic Control Systems via Neural Network
-                        Supermartingales</a>
+                <div style="font-size: 18px;"><a href="">Stability Verification in Stochastic Control Systems via Neural
+                        Network
+                        Supermartingales</a></div>
                 <div style="font-size: 16px;">
                     <br />Đorđe Žikelić*, <u>Mathias Lechner*</u>, Krishnendu Chatterjee, Thomas Henzinger
                     <br />
                     Accepted at the <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2022
                 </div>
-                </p>
             </td>
         </tr>
         <tr>
