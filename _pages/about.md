@@ -46,7 +46,7 @@ permalink: /about/
             </td>
         </tr>
         <tr>
-            <td style="width: 160px; padding: 0px;"></td><img src="/pages/images/thumbnails/gotube.png" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/gotube.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="">GoTube: Scalable Stochastic Verification of
                         Continuous-Depth Models</a><span style="font-size: 16px;">
