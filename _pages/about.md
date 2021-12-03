@@ -14,7 +14,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 ### 2021
 
 
-<table style="border: none;">
+<table style="border: none; border-collapse: collapse;">
     <tbody>
         <tr>
             <td>
@@ -22,22 +22,21 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="pages/images/wormnet/worm.png" /></td>
+            <td><img src="thumbnails/nmi20.png" /></td>
             <td><a href="https://publik.tuwien.ac.at/files/publik_292280.pdf">Neural circuit policies enabling auditable
                     autonomy</a>
-                <br /><b><u>Mathias Lechner*</u></b>, Ramin Hasani*, Alexander Amini, Thomas A. Henzinger, Daniela Rus,
+                <br /><u>Mathias Lechner*</u>, Ramin Hasani*, Alexander Amini, Thomas A. Henzinger, Daniela Rus,
                 and Radu Grosu
                 <br />
                 In <b><i>Nature Machine Intelligence</i></b>, 2020
             </td>
         </tr>
         <tr>
-            <td><img src="pages/images/wormnet/worm.png" /></td>
+            <td><img src="thumbnails/icml20.png" /></td>
             <td><a href="https://publik.tuwien.ac.at/files/publik_292280.pdf">The Natural Lottery Ticket Winner:
                     Reinforcement Learning with Ordinary Neural
-                    Circuits]</a>
-                <br /><b><u>Mathias Lechner*</u></b>, Ramin Hasani*, Alexander Amini, Thomas A. Henzinger, Daniela Rus,
-                and Radu Grosu
+                    Circuits</a>
+                <br />Ramin Hasani, Mathias Lechner, Alexander Amini, Daniela Rus, and Radu Grosu
                 <br />
                 <i>In 2020 International Conference on Machine Learning (<b>ICML</b>)</i>, 2020
             </td>
