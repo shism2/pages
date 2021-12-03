@@ -38,7 +38,7 @@ permalink: /about/
                     Network
                     Supermartingales
                     <span style="font-size: 16px;">
-                        <br />Đorđe Žikelić*, <u>Mathias Lechner*</u>, Krishnendu Chatterjee, Thomas Henzinger
+                        <br />Đorđe Žikelić*, <u>Mathias Lechner*</u>, Krishnendu Chatterjee, Thomas A. Henzinger
                         <br />
                         Accepted at the <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2022
                     </span>
@@ -74,7 +74,7 @@ permalink: /about/
                 <div style="font-size: 18px;"><a
                         href="https://proceedings.neurips.cc/paper/2021/file/544defa9fddff50c53b71c43e0da72be-Paper.pdf">Infinite
                         Time Horizon Safety of Bayesian Neural Networks</a><span style="font-size: 16px;">
-                        <br /><u>Mathias Lechner*</u>, Đorđe Žikelić*, Krishnendu Chatterjee, Thomas Henzinger
+                        <br /><u>Mathias Lechner*</u>, Đorđe Žikelić*, Krishnendu Chatterjee, Thomas A. Henzinger
                         <br />
                         In <i>Conference on Neural Information Processing Systems (<b>NeurIPS</b>)</i>, 2021
                     </span></div>
@@ -110,7 +110,7 @@ permalink: /about/
             <td>
                 <div style="font-size: 18px;"><a href="https://arxiv.org/pdf/2103.08187.pdf">Adversarial Training is Not
                         Ready for Robot Learning</a><span style="font-size: 16px;">
-                        <br /><u>Mathias Lechner</u>, Ramin Hasani, Radu Grosu, Daniela Rus, Thomas A Henzinger
+                        <br /><u>Mathias Lechner</u>, Ramin Hasani, Radu Grosu, Daniela Rus, Thomas A. Henzinger
                         <br />
                         In <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>)</i>, 2021
                     </span></div>
