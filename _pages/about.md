@@ -18,7 +18,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 <table style="border: none; border-collapse: collapse;">
     <tbody>
         <tr>
-            <td><img src="/pages/images/thumbnails/aaai22.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/aaai22.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="">Stability Verification in Stochastic Control Systems via Neural
                         Network
@@ -32,7 +32,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td style="padding: 0px;"><img src="/pages/images/thumbnails/gotube.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"></td><img src="/pages/images/thumbnails/gotube.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="">GoTube: Scalable Stochastic Verification of
                         Continuous-Depth Models</a><span style="font-size: 16px;">
@@ -54,7 +54,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 <table style="border: none; border-collapse: collapse;">
     <tbody>
         <tr>
-            <td><img src="/pages/images/thumbnails/bnn.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/bnn.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="https://proceedings.neurips.cc/paper/2021/file/544defa9fddff50c53b71c43e0da72be-Paper.pdf">Infinite
@@ -66,7 +66,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/drone21.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/drone21.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="https://proceedings.neurips.cc/paper/2021/file/67ba02d73c54f0b83c05507b7fb7267f-Paper.pdf">Causal
@@ -78,7 +78,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/icml21.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/icml21.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="http://proceedings.mlr.press/v139/babaiee21a/babaiee21a.pdf">On-Off Center-Surround
@@ -91,7 +91,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/icra21.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/icra21.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://arxiv.org/pdf/2103.08187.pdf">Adversarial Training is Not
                         Ready for Robot Learning</a><span style="font-size: 16px;">
@@ -102,7 +102,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/aaai21.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/aaai21.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="https://ojs.aaai.org/index.php/AAAI/article/view/16496/16303">Scalable Verification of
@@ -114,7 +114,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/ltc.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/ltc.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="https://ojs.aaai.org/index.php/AAAI/article/view/16936/16743">Liquid Time-constant
@@ -126,7 +126,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/stochastic21.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/stochastic21.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17372/17179">On
                         the Verification of Neural
@@ -148,7 +148,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 <table style="border: none; border-collapse: collapse;">
     <tbody>
         <tr>
-            <td><img src="/pages/images/thumbnails/nmi20.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/nmi20.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://publik.tuwien.ac.at/files/publik_292280.pdf">Neural
                         circuit policies enabling auditable
@@ -161,7 +161,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/icml20.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/icml20.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="https://proceedings.icml.cc/static/paper_files/icml/2020/2398-Paper.pdf">The Natural
@@ -175,7 +175,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/mdfa.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/mdfa.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://openreview.net/forum?id=Bke61krFvS">Learning
                         Representations for binary classification
@@ -187,7 +187,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/ijcar20.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/ijcar20.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://soarlab.org/papers/2020_ijcar_bhlnr.pdf">An SMT Theory of
                         Fixed-Point Arithmetic</a><span style="font-size: 16px;">
@@ -199,7 +199,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/icra20.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/icra20.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="https://ti.tuwien.ac.at/cps/people/grosu/files/icra20.pdf">Gershgorin Loss Stabilizes the
@@ -213,7 +213,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/tacas20.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/tacas20.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="https://link.springer.com/chapter/10.1007/978-3-030-45237-7_5">How Many Bits Does it Take
@@ -231,7 +231,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/lrt.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/lrt.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="https://ti.tuwien.ac.at/cps/people/grosu/files/cdc20.pdf">Lagrangian Reachtubes: The Next
@@ -257,7 +257,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 <table style="border: none; border-collapse: collapse;">
     <tbody>
         <tr>
-            <td><img src="/pages/images/thumbnails/ijcnn19.png" width="128px" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/ijcnn19.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="https://ti.tuwien.ac.at/cps/people/grosu/files/ijcnn19.pdf">Response characterization for
@@ -271,7 +271,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td style="width: 128px;"><img src="/pages/images/thumbnails/icra19.png" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/icra19.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://ieeexplore.ieee.org/document/8793840">Designing
                         worm-inspired neural networks for
