@@ -32,7 +32,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="/pages/images/thumbnails/gotube.png" width="128px" /></td>
+            <td style="padding: 0px;"><img src="/pages/images/thumbnails/gotube.png" width="128px" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="">GoTube: Scalable Stochastic Verification of
                         Continuous-Depth Models</a><span style="font-size: 16px;">
