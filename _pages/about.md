@@ -21,7 +21,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/aaai22.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/aaai22.png" width="256px" /></td>
             <td><a href="">Stability Verification in Stochastic Control Systems via Neural Network
                     Supermartingales</a>
                 <br />Đorđe Žikelić*, <u>Mathias Lechner*</u>, Krishnendu Chatterjee, Thomas Henzinger
@@ -30,7 +30,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/gotube.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/gotube.png" width="256px" /></td>
             <td><a href="">GoTube: Scalable Stochastic Verification of Continuous-Depth Models</a>
                 <br />Sophie Gruenbacher, <u>Mathias Lechner</u>, Ramin Hasani, Daniela Rus, Thomas A. Henzinger, Scott
                 A.
@@ -45,7 +45,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/bnn.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/bnn.png" width="256px" /></td>
             <td><a href="https://proceedings.neurips.cc/paper/2021/file/544defa9fddff50c53b71c43e0da72be-Paper.pdf">Infinite
                     Time Horizon Safety of Bayesian Neural Networks</a>
                 <br /><u>Mathias Lechner*</u>, Đorđe Žikelić*, Krishnendu Chatterjee, Thomas Henzinger
@@ -54,7 +54,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/drone21.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/drone21.png" width="256px" /></td>
             <td><a href="https://proceedings.neurips.cc/paper/2021/file/67ba02d73c54f0b83c05507b7fb7267f-Paper.pdf">Causal
                     Navigation by Continuous-time Neural Networks</a>
                 <br />Charles J Vorbach*, Ramin Hasani*, Alexander Amini, <u>Mathias Lechner</u>, Daniela Rus
@@ -63,7 +63,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/icml21.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/icml21.png" width="256px" /></td>
             <td><a href="http://proceedings.mlr.press/v139/babaiee21a/babaiee21a.pdf">On-Off Center-Surround Receptive
                     Fields for Accurate and Robust Image</a>
                 <br />Zahra Babaiee, Ramin Hasani, <u>Mathias Lechner</u>, Daniela Rus, Radu Grosu
@@ -72,7 +72,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/icra21.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/icra21.png" width="256px" /></td>
             <td><a href="https://arxiv.org/pdf/2103.08187.pdf">Adversarial Training is Not Ready for Robot Learning</a>
                 <br /><u>Mathias Lechner</u>, Ramin Hasani, Radu Grosu, Daniela Rus, Thomas A Henzinger
                 <br />
@@ -80,7 +80,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/aaai21.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/aaai21.png" width="256px" /></td>
             <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/16496/16303">Scalable Verification of
                     Quantized Neural Networks</a>
                 <br />Thomas A. Henzinger*, <u>Mathias Lechner*</u>, and Djordje Zikelic* (alphabetical)
@@ -89,7 +89,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/aaai21.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/aaai21.png" width="256px" /></td>
             <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/16936/16743">Liquid Time-constant Networks</a>
                 <br />Ramin Hasani*, <u>Mathias Lechner*</u>, Alexander Amini, Daniela Rus, and Radu Grosu
                 <br />
@@ -97,7 +97,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/aaai21.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/aaai21.png" width="256px" /></td>
             <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17372/17179">On the Verification of Neural
                     ODEs with Stochastic
                     Guarantees</a>
@@ -113,7 +113,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/nmi20.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/nmi20.png" width="256px" /></td>
             <td><a href="https://publik.tuwien.ac.at/files/publik_292280.pdf">Neural circuit policies enabling auditable
                     autonomy</a>
                 <br /><u>Mathias Lechner*</u>, Ramin Hasani*, Alexander Amini, Thomas A. Henzinger, Daniela Rus,
@@ -123,7 +123,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/icml20.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/icml20.png" width="256px" /></td>
             <td><a href="https://proceedings.icml.cc/static/paper_files/icml/2020/2398-Paper.pdf">The Natural Lottery
                     Ticket Winner: Reinforcement Learning with Ordinary Neural
                     Circuits</a>
@@ -133,7 +133,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/mdfa.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/mdfa.png" width="256px" /></td>
             <td><a href="https://openreview.net/forum?id=Bke61krFvS">Learning Representations for binary classification
                     without backpropagation</a>
                 <br /><u>Mathias Lechner</u>
@@ -142,7 +142,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/ijcar20.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/ijcar20.png" width="256px" /></td>
             <td><a href="https://soarlab.org/papers/2020_ijcar_bhlnr.pdf">An SMT Theory of Fixed-Point Arithmetic</a>
                 <br />Marek Baranowski, Shaobo He, <u>Mathias Lechner</u>, Thanh Son Nguyen, and Zvonimir Rakamaric
                 <br />
@@ -150,7 +150,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/icra20.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/icra20.png" width="256px" /></td>
             <td><a href="https://ti.tuwien.ac.at/cps/people/grosu/files/icra20.pdf">Gershgorin Loss Stabilizes the
                     Recurrent Neural Network Compartment of an End-To-End Robot
                     Learning
@@ -161,7 +161,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/icra20.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/icra20.png" width="256px" /></td>
             <td><a href="https://link.springer.com/chapter/10.1007/978-3-030-45237-7_5">How Many Bits Does it Take to
                     Quantize Your Neural
                     Network?
@@ -174,7 +174,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/icra20.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/icra20.png" width="256px" /></td>
             <td><a href="https://ti.tuwien.ac.at/cps/people/grosu/files/cdc20.pdf">Lagrangian Reachtubes: The Next
                     Generation
                 </a>
@@ -192,7 +192,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/ijcnn19.png" width="256px" /></td>
+            <td><img src="/images/thumbnails/ijcnn19.png" width="256px" /></td>
             <td><a href="https://ti.tuwien.ac.at/cps/people/grosu/files/ijcnn19.pdf">Response characterization for
                     auditing cell dynamics in long short-term memory
                     networks</a>
@@ -202,7 +202,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
             </td>
         </tr>
         <tr>
-            <td><img src="thumbnails/icra19.png" width="256px" /></td>
+            <td><img src="/images//thumbnails/icra19.png" width="256px" /></td>
             <td><a href="https://ieeexplore.ieee.org/document/8793840">Designing worm-inspired neural networks for
                     interpretable robotic
                     control</a>
