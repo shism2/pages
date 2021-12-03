@@ -14,7 +14,7 @@ My research topics are Machine Learning, Formal Methods, and Robotics.
 ### 2021
 
 
-<table>
+<table style="border: 0;">
     <tbody>
         <tr>
             <td>
