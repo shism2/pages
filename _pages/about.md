@@ -34,9 +34,9 @@ permalink: /about/
         <tr>
             <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/aaai22.png" /></td>
             <td>
-                <div style="font-size: 18px;"><a href="">Stability Verification in Stochastic Control Systems via Neural
-                        Network
-                        Supermartingales</a>
+                <div style="font-size: 18px;">Stability Verification in Stochastic Control Systems via Neural
+                    Network
+                    Supermartingales
                     <span style="font-size: 16px;">
                         <br />Đorđe Žikelić*, <u>Mathias Lechner*</u>, Krishnendu Chatterjee, Thomas Henzinger
                         <br />
@@ -48,7 +48,8 @@ permalink: /about/
         <tr>
             <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/gotube.png" /></td>
             <td>
-                <div style="font-size: 18px;"><a href="">GoTube: Scalable Stochastic Verification of
+                <div style="font-size: 18px;"><a href="https://arxiv.org/pdf/2107.08467.pdf">GoTube: Scalable Stochastic
+                        Verification of
                         Continuous-Depth Models</a><span style="font-size: 16px;">
                         <br />Sophie Gruenbacher, <u>Mathias Lechner</u>, Ramin Hasani, Daniela Rus, Thomas A.
                         Henzinger,
@@ -140,7 +141,7 @@ permalink: /about/
             </td>
         </tr>
         <tr>
-            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/stochastic21.png" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/lrt.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17372/17179">On
                         the Verification of Neural
@@ -245,7 +246,7 @@ permalink: /about/
             </td>
         </tr>
         <tr>
-            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/lrt.png" /></td>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/stochastic21.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a
                         href="https://ti.tuwien.ac.at/cps/people/grosu/files/cdc20.pdf">Lagrangian Reachtubes: The Next
