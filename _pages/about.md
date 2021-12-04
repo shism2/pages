@@ -13,7 +13,7 @@ permalink: /about/
             </td>
             <td style="border: none;">
                 <p> I am a PhD candidate at <a href="https://ist.ac.at/">IST Austria</a> at the research group of
-                    <a href="https://ist.ac.at/en/research/henzinger-group/">Tom Henzinger</a>. My research focues on
+                    <a href="https://ist.ac.at/en/research/henzinger-group/">Tom Henzinger</a>. My research focuses on
                     Machine
                     Learning, Formal Methods, and Robotics.
                 </p>
