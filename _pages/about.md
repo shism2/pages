@@ -38,7 +38,7 @@ permalink: /about/
                     Network
                     Supermartingales
                     <span style="font-size: 16px;">
-                        <br />Đorđe Žikelić*, <u>Mathias Lechner*</u>, Krishnendu Chatterjee, Thomas A. Henzinger
+                        <br /> <u>Mathias Lechner*</u>, Đorđe Žikelić*, Krishnendu Chatterjee, Thomas A. Henzinger
                         <br />
                         Accepted at the <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2022
                     </span>
