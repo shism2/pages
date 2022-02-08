@@ -34,9 +34,9 @@ permalink: /about/
         <tr>
             <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/aaai22.png" /></td>
             <td>
-                <div style="font-size: 18px;">Stability Verification in Stochastic Control Systems via Neural
+                <div style="font-size: 18px;"><a href="https://arxiv.org/pdf/2112.09495.pdf">Stability Verification in Stochastic Control Systems via Neural
                     Network
-                    Supermartingales
+                    Supermartingales</a>
                     <span style="font-size: 16px;">
                         <br /> <u>Mathias Lechner*</u>, Đorđe Žikelić*, Krishnendu Chatterjee, Thomas A. Henzinger
                         <br />
