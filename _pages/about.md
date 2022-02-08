@@ -61,6 +61,18 @@ permalink: /about/
                     </span></div>
             </td>
         </tr>
+        <tr>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/icra22.png" /></td>
+            <td>
+                <div style="font-size: 18px;"><a href="https://arxiv.org/pdf/2103.04909.pdf">Model-based versus Model-free Deep Reinforcement Learning for
+Autonomous Racing Cars</a><span style="font-size: 16px;">
+                        <br />
+                        Axel Brunnbauer*, Luigi Berducci*, Andreas Brandstätter*, <u>Mathias Lechner</u>, Ramin Hasani, Daniela Rus, Radu Grosu
+                        <br />
+                        Accepted at the <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>)</i>, 2022
+                    </span></div>
+            </td>
+        </tr>
     </tbody>
 </table>
 
