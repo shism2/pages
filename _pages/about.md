@@ -11,8 +11,9 @@ permalink: /about/
             <td style="width: 200px; border: none;">
                 <img src="/pages/images/me.jpg" />
             </td>
-            <td style="border: none;">
-                <p> I am a PhD candidate at <a href="https://ist.ac.at/">IST Austria</a> at the research group of
+            <td style="border: none;">"
+                <p>I am postdoctoral researcher in the <a href="http://www.csail.mit.edu/">Computer Science and Artificial Intelligence Laboratory (CSAIL)</a> at MIT, working with <a href="http://danielarus.csail.mit.edu/">Prof. Daniela Rus</a>.
+                I completed a PhD (2022) at the <a href="https://ist.ac.at/">Institute of Science and Technology Austria (ISTA)</a> supervised by
                     <a href="https://ist.ac.at/en/research/henzinger-group/">Tom Henzinger</a>. My research focuses on
                     Machine
                     Learning, Formal Methods, and Robotics.
@@ -32,6 +33,18 @@ permalink: /about/
 <table style="border: none; border-collapse: collapse;">
     <tbody>
         <tr>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/iclr-w22.png" /></td>
+            <td>
+                <div style="font-size: 18px;"><a href="https://arxiv.org/pdf/2205.11991.pdf">Learning Stabilizing Policies in Stochastic Control Systems</a>
+                    <span style="font-size: 16px;">
+                        <br /> Đorđe Žikelić*, <u>Mathias Lechner*</u>, Krishnendu Chatterjee, Thomas A. Henzinger
+                        <br />
+                        <i>Workshop on Socially Responsible Machine Learning (<b>SRML</b>) at ICLR 2022</i>, 2022
+                    </span>
+                </div>
+            </td>
+        </tr>
+        <tr>
             <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/aaai22.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://arxiv.org/pdf/2112.09495.pdf">Stability Verification in Stochastic Control Systems via Neural
@@ -40,7 +53,7 @@ permalink: /about/
                     <span style="font-size: 16px;">
                         <br /> <u>Mathias Lechner*</u>, Đorđe Žikelić*, Krishnendu Chatterjee, Thomas A. Henzinger
                         <br />
-                        Accepted at the <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2022
+                        <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2022
                     </span>
                 </div>
             </td>
@@ -57,7 +70,7 @@ permalink: /about/
                         A.
                         Smolka, Radu Grosu
                         <br />
-                        Accepted at the <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2022
+                        <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2022
                     </span></div>
             </td>
         </tr>
@@ -69,7 +82,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         <br />
                         Axel Brunnbauer*, Luigi Berducci*, Andreas Brandstätter*, <u>Mathias Lechner</u>, Ramin Hasani, Daniela Rus, Radu Grosu
                         <br />
-                        Accepted at the <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>)</i>, 2022
+                        <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>)</i>, 2022
                     </span></div>
             </td>
         </tr>
