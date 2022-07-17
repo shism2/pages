@@ -328,6 +328,8 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
 
 ## Awards
 
+**Hyperion Research 2022 HPC Innovation Excellence Award** for Liquid Machine Learning
+
 **Outstanding Reviewer Award** 2021 at the IEEE International Conference on Robotics and Automation (ICRA)
 
 **Distinguished Young Alumnus-Award** 2018 [Faculty of Informatics at TU
