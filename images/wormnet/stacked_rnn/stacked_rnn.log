@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.7.17)  17 JUL 2022 13:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.7.17)  19 JUL 2022 09:07
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **stacked_rnn.tex
 (./stacked_rnn.tex
@@ -11,7 +11,7 @@ Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
 dalone
 (/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
-Package shellesc Info: Restricted shell escape enabled on input line 77.
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
@@ -57,40 +57,32 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \sa@box=\box45
 runsystem(pdflatex  -shell-escape  -jobname 'stacked_rnn' '\expandafter\def\csn
-ame sa@internal@run\endcsname{1}\input{stacked_rnn}')...disabled (restricted).
+ame sa@internal@run\endcsname{1}\input{stacked_rnn}')...executed.
 
 \sa@read=\read2
 runsystem(convert -density 300 -units PixelsPerInch stacked_rnn.pdf  -quality 9
-0 stacked_rnn.png)...disabled (restricted).
+0 stacked_rnn.png)...executed.
 
 
+Class standalone:
+Output written on stacked_rnn.png.
+ ) ) 
+Here is how much of TeX's memory you used:
+ 762 strings out of 483065
+ 11659 string characters out of 5963550
+ 238602 words of memory out of 5000000
+ 15855 multiletter control sequences out of 15000+600000
+ 532338 words of font info for 24 fonts, out of 8000000 for 9000
+ 81 hyphenation exceptions out of 8191
+ 36i,1n,60p,190b,55s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Class standalone Warning: Conversion failed! Please ensure that shell escape
-(standalone)              is enabled (e.g. use '-shell-escape').
+No pages of output.
+PDF statistics:
+ 0 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 105.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+t/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks16
 \pgfutil@tempdima=\dimen137
@@ -132,7 +124,7 @@ ex
 \pgf@xd=\dimen147
 \pgf@yd=\dimen148
 \w@pgf@writea=\write3
-\r@pgf@reada=\read3
+\r@pgf@reada=\read2
 \c@pgf@counta=\count178
 \c@pgf@countb=\count179
 \c@pgf@countc=\count180
@@ -877,13 +869,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./stacked_rnn.aux) ) 
 Here is how much of TeX's memory you used:
- 37386 strings out of 483065
- 1015657 string characters out of 5963550
- 1525544 words of memory out of 5000000
- 51890 multiletter control sequences out of 15000+600000
+ 37374 strings out of 483065
+ 1015500 string characters out of 5963550
+ 1525591 words of memory out of 5000000
+ 51879 multiletter control sequences out of 15000+600000
  534342 words of font info for 33 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
- 63i,7n,98p,723b,667s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,7n,100p,779b,667s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
