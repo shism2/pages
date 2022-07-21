@@ -11,7 +11,7 @@ permalink: /about/
             <td style="width: 200px; border: none;">
                 <img src="/pages/images/me.jpg" />
             </td>
-            <td style="border: none;">"
+            <td style="border: none;">
                 <p>I am postdoctoral researcher in the <a href="http://www.csail.mit.edu/">Computer Science and Artificial Intelligence Laboratory (CSAIL)</a> at MIT, working with <a href="http://danielarus.csail.mit.edu/">Prof. Daniela Rus</a>.
                 I completed a PhD (2022) at the <a href="https://ist.ac.at/">Institute of Science and Technology Austria (ISTA)</a> supervised by
                     <a href="https://ist.ac.at/en/research/henzinger-group/">Tom Henzinger</a>. My research focuses on
@@ -332,10 +332,10 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
 
 **Outstanding Reviewer Award** 2021 at the IEEE International Conference on Robotics and Automation (ICRA)
 
+**First Place** In *F1TENTH - Autonomous Racing Grand Prix* at [IFAC 2020](https://f1tenth.org/ifac2020.html)
+
 **Distinguished Young Alumnus-Award** 2018 [Faculty of Informatics at TU
 Wien](http://www.informatik.tuwien.ac.at/studium/studierende/epilog/2017ws)
 
 
-## Competitions
-
-**First Place** In *F1TENTH - Autonomous Racing Grand Prix* at [IFAC 2020](https://f1tenth.org/ifac2020.html)
+<!-- ## Competitions -->
