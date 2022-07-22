@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: My Research
 permalink: /about/
 ---
 <!-- ![]({{ site.baseurl }}/images/merged.jpg) -->
