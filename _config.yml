@@ -39,7 +39,7 @@ baseurl: "/pages" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: MLech20
+    twitter: mlech26l
     github: mlech26l
 
 # Set this to true to get LaTeX math equation support
