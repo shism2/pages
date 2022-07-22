@@ -1,9 +1,9 @@
 ---
 toc: false
 layout: post
-title: Part 3 - An unusual ODE-solver
+title: Neural Circuit Policies (Part 3) - An Unusual ODE-solver
 tags: [NCP, wormnet]
-image: "images/wormnet/diffeq/ode.png"
+image: "images/thumb_sized/ode.png"
 
 ---
 
