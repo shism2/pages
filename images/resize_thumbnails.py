@@ -2,7 +2,7 @@ import cv2
 import os
 
 
-in_dir = "thumb_posts"
+in_dir = "thumb_add_here"
 out_dir = "thumb_sized"
 
 files = os.listdir(in_dir)

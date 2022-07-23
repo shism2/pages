@@ -10,6 +10,13 @@ image: "images/thumb_sized/ode.png"
 This is the third part in a series explaining our recent paper titled [Neural circuit policies enabling auditable autonomy](https://rdcu.be/b8sEo).
 Here, we will derive an ODE-solver specifically created to deal with the numerical issues of our LTC neural network model.
 
+- [Part 1: Introduction]({{ site.baseurl }}/2020/09/14/wormnet1.html)
+- [Part 2: An old neuron model revisted]({{ site.baseurl }}/2020/09/15/the_model.html)
+- **Part 3: An unusual ODE-solver****
+- [Part 4: Training RNN is difficult]({{ site.baseurl }}/2021/02/18/rnn.html)
+- [Part 5: Sparsity in machine learning]({{ site.baseurl }}/2021/03/08/sparsity.html)
+- [Part 6: Pros and Cons of Neural Circuit Policies]({{ site.baseurl }}/2021/06/29/procon.html)
+
 ## Stiff ordinary differential equations
  
 In the previous part, we have defined an ODE-based neuron model, together with a non-linear synapse model.
@@ -84,7 +91,8 @@ This does not guarantee that we always approximate the system in all conditions 
 
 ## Conclusion
 
-We showed how to obtain a stable and decently accurate discretization of our neural network model. In the next part, we will put this solution into a deep learning framework and learn its parameters from training data.
+We showed how to obtain a stable and decently accurate discretization of our neural network model. 
+In the [next part]({{ site.baseurl }}/2021/02/18/rnn.html), we will discuss issues arising the training of RNNs.
 
 ## References
 
