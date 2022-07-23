@@ -24,7 +24,7 @@ permalink: /about/
 </table>
 
 
-## Publications
+## List of Publications
 
 \* denotes equal contributions
 
