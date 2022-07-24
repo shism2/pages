@@ -9,21 +9,16 @@ permalink: /about/
     <tbody>
         <tr style="border: none;">
             <td style="width: 200px; border: none;">
-                <img src="/pages/images/me.jpg" />
+                <img style="border-radius: 50%;" src="/pages/images/me.jpg" />
             </td>
             <td style="border: none;">
             <p>
-             The ultimate goal of my research is to improve our understanding of the decision-making process of deep neural
-    networks and, accordingly, design new models with enhanced generalization and robustness. To achieve this, I pursue
-    three potential paths: 
-                <ol>
-                <li>Identify the origin of a deep network's wrong decisions and, subsequently, build
-    algorithms and models that learn less error-prone representations.</li>
-                <li>Constructing deep models with an
-    interpretable decision-making process and transparent output predictions.</li>
-                <li>Develop formal verification methods
-    for deep networks, which provide guarantees on the models' worst-case behavior.</li>
-                </ol>
+The ultimate goal of my research is to build deep neural networks that we can trust. Specifically, my research includes the topics:
+               <ul>
+                <li>Formal verification of deep learning systems</li>
+                <li>Interpretable and explainable decision-making in neural networks</li>
+                <li>Robust robot learning .</li>
+                </ul>
     </p>
             <!-- <h2>Research experience</h2>
             <ul style="list-style-type:disc">
@@ -39,7 +34,7 @@ permalink: /about/
 
 ## List of Publications
 
-\* denotes equal contributions
+<span style="font-size: 14px;">\* denotes equal contributions</span>
 
 ### 2022
 
