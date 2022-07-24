@@ -12,12 +12,12 @@ permalink: /about/
                 <img src="/pages/images/me.jpg" />
             </td>
             <td style="border: none;">
-                <p>I am postdoctoral researcher in the <a href="http://www.csail.mit.edu/">Computer Science and Artificial Intelligence Laboratory (CSAIL)</a> at MIT, working with <a href="http://danielarus.csail.mit.edu/">Prof. Daniela Rus</a>.
-                I completed a PhD (2022) at the <a href="https://ist.ac.at/">Institute of Science and Technology Austria (ISTA)</a> supervised by
-                    <a href="https://ist.ac.at/en/research/henzinger-group/">Tom Henzinger</a>. My research focuses on
-                    Machine
-                    Learning, Formal Methods, and Robotics.
-                </p>
+            <h2>Research experience</h2>
+            <ul style="list-style-type:disc">
+            <li>Since 06/2022 - Postdoctoral research associate at <a href="http://www.csail.mit.edu/">MIT CSAIL</a></li>
+            <li>05/2022 - PhD from the <a href="https://ist.ac.at/">Institute of Science and Technology Austria (ISTA)</li>
+            <li>10/2017 - MSc from the <a href="https://www.tuwien.at/en/">Vienna University of Technology (TU Wien)</li>
+            </ul>
             </td>
         </tr>
     </tbody>
