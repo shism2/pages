@@ -13,11 +13,11 @@ permalink: /about/
             </td>
             <td style="border: none;">
             <p>
-The ultimate goal of my research is to build deep neural networks that we can trust. Specifically, my research includes the topics:
+<b>My research goal</b> is to build deep neural networks that we can trust. Specifically, my research includes the topics
                <ul>
                 <li>Formal verification of deep learning systems</li>
                 <li>Interpretable and explainable decision-making in neural networks</li>
-                <li>Robust robot learning .</li>
+                <li>Robust robot learning</li>
                 </ul>
     </p>
             <!-- <h2>Research experience</h2>
