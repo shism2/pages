@@ -12,12 +12,19 @@ permalink: /about/
                 <img src="/pages/images/me.jpg" />
             </td>
             <td style="border: none;">
+            <p>
              The ultimate goal of my research is to improve our understanding of the decision-making process of deep neural
     networks and, accordingly, design new models with enhanced generalization and robustness. To achieve this, I pursue
-    three potential paths: (1) Identify the origin of a deep network's wrong decisions and, subsequently, build
-    algorithms and models that learn less error-prone representations. (2) Constructing deep models with an
-    interpretable decision-making process and transparent output predictions. (3) Develop formal verification methods
-    for deep networks, which provide guarantees on the models' worst-case behavior.
+    three potential paths: 
+                <ol>
+                <li>Identify the origin of a deep network's wrong decisions and, subsequently, build
+    algorithms and models that learn less error-prone representations.</li>
+                <li>Constructing deep models with an
+    interpretable decision-making process and transparent output predictions.</li>
+                <li>Develop formal verification methods
+    for deep networks, which provide guarantees on the models' worst-case behavior.</li>
+                </ol>
+    </p>
             <!-- <h2>Research experience</h2>
             <ul style="list-style-type:disc">
             <li>Since 06/2022 - Postdoctoral research associate at <a href="http://www.csail.mit.edu/">MIT CSAIL</a></li>
