@@ -12,12 +12,18 @@ permalink: /about/
                 <img src="/pages/images/me.jpg" />
             </td>
             <td style="border: none;">
-            <h2>Research experience</h2>
+             The ultimate goal of my research is to improve our understanding of the decision-making process of deep neural
+    networks and, accordingly, design new models with enhanced generalization and robustness. To achieve this, I pursue
+    three potential paths: (1) Identify the origin of a deep network's wrong decisions and, subsequently, build
+    algorithms and models that learn less error-prone representations. (2) Constructing deep models with an
+    interpretable decision-making process and transparent output predictions. (3) Develop formal verification methods
+    for deep networks, which provide guarantees on the models' worst-case behavior.
+            <!-- <h2>Research experience</h2>
             <ul style="list-style-type:disc">
             <li>Since 06/2022 - Postdoctoral research associate at <a href="http://www.csail.mit.edu/">MIT CSAIL</a></li>
-            <li>05/2022 - PhD from the <a href="https://ist.ac.at/">Institute of Science and Technology Austria (ISTA)</li>
-            <li>10/2017 - MSc from the <a href="https://www.tuwien.at/en/">Vienna University of Technology (TU Wien)</li>
-            </ul>
+            <li>05/2022 - PhD from the <a href="https://ist.ac.at/">Institute of Science and Technology Austria (ISTA)</a></li>
+            <li>10/2017 - MSc from the <a href="https://www.tuwien.at/en/">Vienna University of Technology (TU Wien)</a></li>
+            </ul> -->
             </td>
         </tr>
     </tbody>
