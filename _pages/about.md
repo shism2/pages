@@ -47,7 +47,7 @@ permalink: /about/
                     <span style="font-size: 16px;">
                         <br /><u>Mathias Lechner</u>
                         <br />
-                        <i>PhD thesis, 2022
+                        <i>PhD thesis</i>, 2022
                     </span>
                 </div>
             </td>
