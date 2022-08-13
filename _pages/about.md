@@ -41,6 +41,18 @@ permalink: /about/
 <table style="border: none; border-collapse: collapse;">
     <tbody>
         <tr>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/thesis.jpg" /></td>
+            <td>
+                <div style="font-size: 18px;"><a href="https://research-explorer.app.ist.ac.at/download/11362/11382/thesis_main-a2.pdf">Learning Verifiable Representations</a>
+                    <span style="font-size: 16px;">
+                        <br /><u>Mathias Lechner*</u>
+                        <br />
+                        <i>PhD thesis, 2022
+                    </span>
+                </div>
+            </td>
+        </tr>
+        <tr>
             <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/iclr-w22.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://arxiv.org/pdf/2205.11991.pdf">Learning Stabilizing Policies in Stochastic Control Systems</a>
