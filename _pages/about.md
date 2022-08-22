@@ -9,7 +9,7 @@ permalink: /about/
     <tbody>
         <tr style="border: none;">
             <td style="width: 200px; border: none;">
-                <img style="border-radius: 50%;" src="/pages/images/me.jpg" />
+                <img style="border-radius: 50%;" src="/pages/images/me.jpg" alt="Mathias Lechner" />
             </td>
             <td style="border: none;">
             <p>
