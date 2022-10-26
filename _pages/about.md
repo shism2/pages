@@ -41,6 +41,54 @@ permalink: /about/
 <table style="border: none; border-collapse: collapse;">
     <tbody>
         <tr>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/pyhopper.png" /></td>
+            <td>
+                <div style="font-size: 18px;"><a href="https://openreview.net/forum?id=TG-K0j23RK">PyHopper-A Plug-and-Play Hyperparameter Optimization Engine</a>
+                    <span style="font-size: 16px;">
+                        <br /><u>Mathias Lechner</u>, Ramin Hasani, Sophie Neubauer, Philipp Neubauer, Daniela Rus
+                        <br />
+                        <i>Has it Trained Yet? NeurIPS 2022 Workshop</i>, 2022
+                    </span>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/vitvista.png" /></td>
+            <td>
+                <div style="font-size: 18px;"><a href="https://arxiv.org/pdf/2210.04303">Are All Vision Models Created Equal? A Study of the Open-Loop to Closed-Loop Causality Gap</a>
+                    <span style="font-size: 16px;">
+                        <br /><u>Mathias Lechner</u>, Ramin Hasani, Alexander Amini, Tsun-Hsuan Wang, Thomas A Henzinger, Daniela Rus
+                        <br />
+                        <i>NeurIPS 2022 Machine Learning for Autonomous Driving Workshop (ML4AD)</i>, 2022
+                    </span>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/mmrnn.png" /></td>
+            <td>
+                <div style="font-size: 18px;"><a href="https://openreview.net/forum?id=W5PRx-SlzxA">Mixed-Memory RNNs for Learning Long-term Dependencies in Irregularly-sampled Time Series</a>
+                    <span style="font-size: 16px;">
+                        <br /><u>Mathias Lechner</u>, Ramin Hasani
+                        <br />
+                        <i>Memory in Artificial and Real Intelligence (MemARI) NeurIPS 2022 Workshop</i>, 2022
+                    </span>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/failurenet.png" /></td>
+            <td>
+                <div style="font-size: 18px;"><a href="">Infrastructure-based End-to-End Learning and Prevention of Driver Failure</a>
+                    <span style="font-size: 16px;">
+                        <br />Noam Buckman, Shiva Sreeram, <u>Mathias Lechner</u>, Yutong Ban, Ramin Hasani, Sertac Karaman, Daniela Rus
+                        <br />
+                        <i>5th Robot Learning Workshop at NeurIPS: Trustworthy Robotics</i>, 2022
+                    </span>
+                </div>
+            </td>
+        </tr>
+        <tr>
             <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/thesis.jpg" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://research-explorer.app.ist.ac.at/download/11362/11382/thesis_main-a2.pdf">Learning Verifiable Representations</a>
