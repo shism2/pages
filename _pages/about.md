@@ -52,7 +52,6 @@ permalink: /about/
                 </div>
             </td>
         </tr>
-
         <tr>
             <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/pyhopper.png" /></td>
             <td>
