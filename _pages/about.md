@@ -41,6 +41,19 @@ permalink: /about/
 <table style="border: none; border-collapse: collapse;">
     <tbody>
         <tr>
+            <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/cfc.png" /></td>
+            <td>
+                <div style="font-size: 18px;"><a href="https://www.nature.com/articles/s42256-022-00556-7">Closed-form continuous-time neural networks</a>
+                    <span style="font-size: 16px;">
+                        <br />Ramin Hasani*, <u>Mathias Lechner*</u>, Alexander Amini, Lucas Liebenwein, Aaron Ray, Max Tschaikowski, Gerald Teschl, Daniela Rus
+                        <br />
+                        <i><b>Nature Machine Intelligence</b></i>, 2022
+                    </span>
+                </div>
+            </td>
+        </tr>
+
+        <tr>
             <td style="width: 160px; padding: 0px;"><img src="/pages/images/thumbnails/pyhopper.png" /></td>
             <td>
                 <div style="font-size: 18px;"><a href="https://openreview.net/forum?id=TG-K0j23RK">PyHopper-A Plug-and-Play Hyperparameter Optimization Engine</a>
@@ -169,7 +182,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         Time Horizon Safety of Bayesian Neural Networks</a><span style="font-size: 16px;">
                         <br /><u>Mathias Lechner*</u>, Đorđe Žikelić*, Krishnendu Chatterjee, Thomas A. Henzinger
                         <br />
-                        In <i>Conference on Neural Information Processing Systems (<b>NeurIPS</b>)</i>, 2021
+                        <i>Conference on Neural Information Processing Systems (<b>NeurIPS</b>)</i>, 2021
                     </span></div>
             </td>
         </tr>
@@ -181,7 +194,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         Navigation by Continuous-time Neural Networks</a><span style="font-size: 16px;">
                         <br />Charles J Vorbach*, Ramin Hasani*, Alexander Amini, <u>Mathias Lechner</u>, Daniela Rus
                         <br />
-                        In <i>Conference on Neural Information Processing Systems (<b>NeurIPS</b>)</i>, 2021
+                        <i>Conference on Neural Information Processing Systems (<b>NeurIPS</b>)</i>, 2021
                     </span></div>
             </td>
         </tr>
@@ -194,7 +207,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         Fields for Accurate and Robust Image</a><span style="font-size: 16px;">
                         <br />Zahra Babaiee, Ramin Hasani, <u>Mathias Lechner</u>, Daniela Rus, Radu Grosu
                         <br />
-                        In <i>International Conference on Machine Learning (<b>ICML</b>)</i>, 2021
+                        <i>International Conference on Machine Learning (<b>ICML</b>)</i>, 2021
                     </span></div>
             </td>
         </tr>
@@ -205,7 +218,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         Ready for Robot Learning</a><span style="font-size: 16px;">
                         <br /><u>Mathias Lechner</u>, Ramin Hasani, Radu Grosu, Daniela Rus, Thomas A. Henzinger
                         <br />
-                        In <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>)</i>, 2021
+                        <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>)</i>, 2021
                     </span></div>
             </td>
         </tr>
@@ -217,7 +230,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         Quantized Neural Networks</a><span style="font-size: 16px;">
                         <br />Thomas A. Henzinger*, <u>Mathias Lechner*</u>, and Djordje Zikelic* (alphabetical)
                         <br />
-                        In <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2021
+                        <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2021
                     </span></div>
             </td>
         </tr>
@@ -229,7 +242,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         Networks</a><span style="font-size: 16px;">
                         <br />Ramin Hasani*, <u>Mathias Lechner*</u>, Alexander Amini, Daniela Rus, and Radu Grosu
                         <br />
-                        In <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2021
+                        <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2021
                     </span></div>
             </td>
         </tr>
@@ -244,7 +257,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         and Radu
                         Grosu
                         <br />
-                        In <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2021
+                        <i>AAAI Conference on Artificial Intelligence (<b>AAAI</b>) </i>, 2021
                     </span></div>
             </td>
         </tr>
@@ -264,7 +277,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         <br /><u>Mathias Lechner*</u>, Ramin Hasani*, Alexander Amini, Thomas A. Henzinger, Daniela Rus,
                         and Radu Grosu
                         <br />
-                        In <b><i>Nature Machine Intelligence</i></b>, 2020
+                        <b><i>Nature Machine Intelligence</i></b>, 2020
                     </span></div>
             </td>
         </tr>
@@ -278,7 +291,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         Circuits</a><span style="font-size: 16px;">
                         <br />Ramin Hasani*, <u>Mathias Lechner*</u>, Alexander Amini, Daniela Rus, and Radu Grosu
                         <br />
-                        In <i>International Conference on Machine Learning (<b>ICML</b>)</i>, 2020
+                        <i>International Conference on Machine Learning (<b>ICML</b>)</i>, 2020
                     </span></div>
             </td>
         </tr>
@@ -290,7 +303,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         without backpropagation</a><span style="font-size: 16px;">
                         <br /><u>Mathias Lechner</u>
                         <br />
-                        In <i>International Conference on Learning Representations (<b>ICLR</b>)</i>, 2020
+                        <i>International Conference on Learning Representations (<b>ICLR</b>)</i>, 2020
                     </span></div>
             </td>
         </tr>
@@ -302,7 +315,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         <br />Marek Baranowski, Shaobo He, <u>Mathias Lechner</u>, Thanh Son Nguyen, and Zvonimir
                         Rakamaric
                         <br />
-                        In <i>International Joint Conference on Automated Reasoning (<b>IJCAR</b>)</i>, 2020
+                        <i>International Joint Conference on Automated Reasoning (<b>IJCAR</b>)</i>, 2020
                     </span></div>
             </td>
         </tr>
@@ -316,7 +329,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         Scheme</a><span style="font-size: 16px;">
                         <br /><u>Mathias Lechner*</u>, Ramin Hasani*, Daniela Rus, and Radu Grosu
                         <br />
-                        In <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>)</i>, 2020
+                        <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>)</i>, 2020
                     </span></div>
             </td>
         </tr>
@@ -332,7 +345,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         <br />
                         Mirco Giacobbe*, Thomas A. Henzinger*, and <u>Mathias Lechner*</u> (alphabetical)
                         <br />
-                        In <i>International Conference on Tools and Algorithms for the Construction and Analysis of
+                        <i>International Conference on Tools and Algorithms for the Construction and Analysis of
                             Systems
                             (<b>TACAS</b>)</i>, 2020
                     </span></div>
@@ -352,7 +365,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         <br />
                         <b>TC-DES and TC-HS Outstanding Student Paper Prize</b>
                         <br />
-                        In <i>IEEE Conference on Decision and Control
+                        <i>IEEE Conference on Decision and Control
                             (<b>CDC</b>)</i>, 2020
                     </span></div>
             </td>
@@ -374,7 +387,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         <br />Ramin Hasani*, Alexander Amini*, <u>Mathias Lechner</u>, Felix Naser, Radu Grosu, and
                         Daniela Rus
                         <br />
-                        In <i>International Joint Conference on Neural Networks (<b>IJCNN</b>)</i>, 2019
+                        <i>International Joint Conference on Neural Networks (<b>IJCNN</b>)</i>, 2019
                     </span></div>
             </td>
         </tr>
@@ -387,7 +400,7 @@ Autonomous Racing Cars</a><span style="font-size: 16px;">
                         control</a><span style="font-size: 16px;">
                         <br /><u>Mathias Lechner*</u>, Ramin Hasani*, Manuel Zimmer, Thomas A. Henzinger, and Radu Grosu
                         <br />
-                        In <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>)</i>, 2019
+                        <i>IEEE International Conference on Robotics and Automation (<b>ICRA</b>)</i>, 2019
                     </span></div>
             </td>
         </tr>
